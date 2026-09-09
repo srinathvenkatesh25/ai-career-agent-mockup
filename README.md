@@ -35,12 +35,15 @@ npm run dev
 
 It was originally built and previewed as a Claude.ai artifact, so no build step is required there — it's included here for version control and portfolio purposes.
 
-## Tech
+## Tech Stack
 
 - React (function components, hooks — no external state library)
 - Tailwind CSS utility classes
 - lucide-react icons
 - No backend — all data is in-memory sample data for demonstration
+
+## Link
+https://srinathvenkatesh25.github.io/ai-career-agent-mockup/
 
 ## Disclaimer
 
